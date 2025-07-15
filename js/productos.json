@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Martillo",
+    "precio": 4500,
+    "descripcion": "Martillo de acero forjado, ideal para carpintería y construcción.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/609/609803.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Destornillador",
+    "precio": 3200,
+    "descripcion": "Destornillador de punta plana con mango antideslizante.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2797/2797383.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Caja de clavos",
+    "precio": 1800,
+    "descripcion": "Caja con 500g de clavos galvanizados, variados tamaños.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/263/263100.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Moladora",
+    "precio": 15000,
+    "descripcion": "Moladora angular profesional, potente y duradera.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/609/609809.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Cinta métrica",
+    "precio": 2100,
+    "descripcion": "Cinta métrica de 5 metros, resistente y fácil de usar.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/4901/4901781.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Escalera Plegable",
+    "precio": 11500,
+    "descripcion": "Escalera plegable de aluminio, liviana y segura.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/609/609830.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Caja de tornillos",
+    "precio": 1200,
+    "descripcion": "Caja con tornillos varios, ideales para todo tipo de proyectos.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/173/173048.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Cinta Python",
+    "precio": 2000,
+    "descripcion": "Cinta aislante resistente de gran adherencia.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/4901/4901781.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Serrucho reforzado",
+    "precio": 10000,
+    "descripcion": "Serrucho con hoja reforzada para cortes precisos.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/5796/5796485.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Pinceles",
+    "precio": 1500,
+    "descripcion": "Set de pinceles de diferentes tamaños para pintar.",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/2515/2515183.png"
+  }
+]

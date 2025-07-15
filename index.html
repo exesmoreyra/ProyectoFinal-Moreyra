@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ferretería El Nono</title>
+  <link rel="stylesheet" href="css/style.css">
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  
+ <header class="main-header">
+  <div class="header-inner">
+    <div class="logo-box">
+      <span class="titulo-header">🔨 Ferretería <b>El Nono</b></span>
+    </div>
+    <div class="carrito-header" id="carrito-header" title="Ver carrito">
+      <i class="fas fa-shopping-bag"></i>
+      <span id="carrito-contador" class="carrito-contador">0</span>
+    </div>
+  </div>
+</header>
+
+  <main>
+    <section id="productos">
+      <h2>Productos disponibles</h2>
+      <div id="lista-productos"></div>
+    </section>
+  </main>
+
+  <aside id="carrito-modal" class="carrito-modal">
+    <div class="carrito-modal-content">
+      <div class="carrito-modal-header">
+        <h2>Carrito de Compras</h2>
+        <span id="cerrar-carrito" class="cerrar-carrito" title="Cerrar">&times;</span>
+      </div>
+      <div id="lista-carrito"></div>
+      <button id="vaciar-carrito" class="btn-vaciar">Vaciar Carrito</button>
+      <button id="finalizar">Finalizar Compra</button>
+      <div id="resumen-compra"></div>
+    </div>
+    <div class="carrito-modal-overlay"></div>
+  </aside>
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
